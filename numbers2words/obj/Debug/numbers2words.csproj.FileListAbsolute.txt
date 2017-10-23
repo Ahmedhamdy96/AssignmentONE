@@ -1,0 +1,9 @@
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment one\numbers2words\numbers2words\bin\Debug\numbers2words.exe.config
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment one\numbers2words\numbers2words\bin\Debug\numbers2words.exe
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment one\numbers2words\numbers2words\bin\Debug\numbers2words.pdb
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment one\numbers2words\numbers2words\obj\Debug\numbers2words.csprojResolveAssemblyReference.cache
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment one\numbers2words\numbers2words\obj\Debug\numbers2words.exe
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment one\numbers2words\numbers2words\obj\Debug\numbers2words.pdb
+C:\Users\Ahmed Hamdy\Source\Repos\AssignmentONE\numbers2words\bin\Debug\numbers2words.exe.config
+C:\Users\Ahmed Hamdy\Source\Repos\AssignmentONE\numbers2words\obj\Debug\numbers2words.exe
+C:\Users\Ahmed Hamdy\Source\Repos\AssignmentONE\numbers2words\obj\Debug\numbers2words.pdb
